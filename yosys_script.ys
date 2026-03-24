@@ -1,0 +1,3 @@
+read_verilog {input_file}
+synth -top {top_module}
+stat
